@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/lmscourse-fse',
-        'pretty_version' => 'v1.0.1',
-        'version' => '1.0.1.0',
-        'reference' => 'f5ff755199396d9962398a5bbfeb1334b15a9f27',
+        'pretty_version' => 'v1.0.2',
+        'version' => '1.0.2.0',
+        'reference' => '8247b7926c5fa272f4fd8725640b7569892706fc',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,18 +11,18 @@
     ),
     'versions' => array(
         'codeinwp/lmscourse-fse' => array(
-            'pretty_version' => 'v1.0.1',
-            'version' => '1.0.1.0',
-            'reference' => 'f5ff755199396d9962398a5bbfeb1334b15a9f27',
+            'pretty_version' => 'v1.0.2',
+            'version' => '1.0.2.0',
+            'reference' => '8247b7926c5fa272f4fd8725640b7569892706fc',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'codeinwp/themeisle-sdk' => array(
-            'pretty_version' => '3.3.46',
-            'version' => '3.3.46.0',
-            'reference' => 'af2e7360bbe3af6a1bd2c3779fc33b7765104461',
+            'pretty_version' => '3.3.65',
+            'version' => '3.3.65.0',
+            'reference' => 'f650fe856d52ce4e5754557d89ba2f3127ad54d8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeinwp/themeisle-sdk',
             'aliases' => array(),
